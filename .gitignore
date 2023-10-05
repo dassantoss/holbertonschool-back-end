@@ -168,3 +168,4 @@ python_variable_annotations/*main.py
 node_modules/
 package-lock.json
 package.json
+*main*.*
