@@ -170,3 +170,4 @@ package-lock.json
 package.json
 *main*.*
 ES6_promise/.eslintrc.json
+ES6_promise/.babelrc
